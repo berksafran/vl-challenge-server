@@ -1,0 +1,132 @@
+{
+  "total_endorsement": 1237890.123,
+  "total_order_count": 100000,
+  "total_profit": 100378.43,
+  "top_categories": [
+    {
+      "name": "Moda",
+      "id": 1,
+      "endorsement": 12890.13,
+      "total_order_count": 1000,
+      "total_sold_products_count": 1129,
+      "profit": 1008.43,
+      "total_visitor_count": 1334345,
+      "categories_in_same_order": [
+        {
+          "name": "Telefon",
+          "id": 5,
+          "endorsement": 12890.13,
+          "total_order_count": 8000,
+          "total_sold_products_count": 10129,
+          "profit": 1008.43,
+          "total_visitor_count": 1334345
+        },
+        {
+          "name": "Bilgisayar",
+          "id": 2,
+          "endorsement": 19890.13,
+          "total_order_count": 20198,
+          "total_sold_products_count": 19987,
+          "profit": 11798.43,
+          "total_visitor_count": 13343345
+        }
+      ]
+    },
+    {
+      "name": "Bilgisayar",
+      "id": 2,
+      "endorsement": 19890.13,
+      "total_order_count": 20198,
+      "total_sold_products_count": 1100,
+      "profit": 11798.43,
+      "total_visitor_count": 13343345,
+      "categories_in_same_order": [
+        {
+          "name": "Telefon",
+          "id": 5,
+          "endorsement": 12890.13,
+          "total_order_count": 8000,
+          "total_sold_products_count": 10129,
+          "profit": 1008.43,
+          "total_visitor_count": 1334345
+        },
+        {
+          "name": "Moda",
+          "id": 1,
+          "endorsement": 12890.13,
+          "total_order_count": 1000,
+          "total_sold_products_count": 4029,
+          "profit": 1008.43,
+          "total_visitor_count": 1334345
+        },
+        {
+          "name": "Ofis",
+          "id": 19,
+          "endorsement": 1290.13,
+          "total_order_count": 1023,
+          "total_sold_products_count": 5409,
+          "profit": 108.43,
+          "total_visitor_count": 13345
+        }
+      ]
+    },
+    {
+      "name": "Spor",
+      "id": 3,
+      "endorsement": 19890.13,
+      "total_order_count": 21238,
+      "total_sold_products_count": 1310,
+      "profit": 11798.43,
+      "total_visitor_count": 1332345,
+      "categories_in_same_order": [
+        {
+          "name": "Telefon",
+          "id": 5,
+          "endorsement": 12890.13,
+          "total_order_count": 8000,
+          "total_sold_products_count": 10129,
+          "profit": 1008.43,
+          "total_visitor_count": 1334345
+        },
+        {
+          "name": "Ofis",
+          "id": 19,
+          "endorsement": 1290.13,
+          "total_order_count": 1032,
+          "total_sold_products_count": 19,
+          "profit": 108.43,
+          "total_visitor_count": 13345
+        }
+      ]
+    },
+    {
+      "name": "Kitap",
+      "id": 4,
+      "endorsement": 19230.13,
+      "total_order_count": 201918,
+      "total_sold_products_count": 1200,
+      "profit": 11731298.43,
+      "total_visitor_count": 123123234,
+      "categories_in_same_order": [
+        {
+          "name": "Moda",
+          "id": 1,
+          "endorsement": 12890.13,
+          "total_order_count": 1000,
+          "total_sold_products_count": 1129,
+          "profit": 1008.43,
+          "total_visitor_count": 1334345
+        },
+        {
+          "name": "Ofis",
+          "id": 19,
+          "endorsement": 1290.13,
+          "total_order_count": 1234,
+          "total_sold_products_count": 19,
+          "profit": 108.43,
+          "total_visitor_count": 13345
+        }
+      ]
+    }
+  ]
+}
