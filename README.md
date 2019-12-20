@@ -12,8 +12,8 @@ Original repo: https://github.com/berksafran/vl-challenge
 VL-Challenge and VL-Challenge-Server
 
 ```
-https://github.com/berksafran/vl-challenge.git
-https://github.com/berksafran/vl-challenge-server.git
+git clone https://github.com/berksafran/vl-challenge.git
+git clone https://github.com/berksafran/vl-challenge-server.git
 ```
 
 ## Install
@@ -21,8 +21,6 @@ https://github.com/berksafran/vl-challenge-server.git
 ```
 cd vl-challenge-server
 yarn install
-or
-npm install
 ```
 
 ## Usage
@@ -36,7 +34,7 @@ or
 
 if nodemon exist
 ```
-nodemon server.js (nodemon install required)
+nodemon server.js
 ```
 
 by Berk Safranbolulu | 2019
